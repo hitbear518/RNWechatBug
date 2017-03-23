@@ -11,6 +11,7 @@ import {
   Text,
   View
 } from 'react-native';
+import * as WeChat from 'react-native-wechat';
 
 export default class RNWechatBug extends Component {
   render() {
