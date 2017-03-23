@@ -1,0 +1,3 @@
+rootProject.name = 'RNWechatBug'
+
+include ':app'
